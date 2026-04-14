@@ -1,0 +1,6 @@
+{
+  "name": "Kinetic Bounce",
+  "description": "A physics-based bouncing ball simulation with realistic gravity and elasticity on a vector graphic background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
